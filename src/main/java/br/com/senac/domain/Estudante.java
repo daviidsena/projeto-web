@@ -18,7 +18,6 @@ public class Estudante {
 	@Setter
 	private Long id;
 	
-	
 	@Getter
 	@Setter
 	private String email;
@@ -26,7 +25,6 @@ public class Estudante {
 	@Getter
 	@Setter
 	private LocalDate dataNascimento;
-	
 	
 	private String nome;
 	
